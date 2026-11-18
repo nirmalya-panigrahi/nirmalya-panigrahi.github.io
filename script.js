@@ -29,8 +29,8 @@ const CONTACT_LINKS = [
 const APPS = [
 	
   { name: "Mind Your Subscription", desc: "SaaS subscription management", color: "bg-blue-600", icon: "fa-solid fa-wand-magic-sparkles", href: "https://mind-your-subscription.vercel.app/" },
-  { name: "Chitra Art Guide", desc: "AI-assisted art exploration", color: "bg-rose-500", icon: "fa-solid fa-palette", href: "https://chitra-art-guide.vercel.app/" },
-  { name: "Forest Focus", desc: "Nature-based productivity", color: "bg-emerald-600", icon: "fa-solid fa-tree", href: "https://forest-focus-game.vercel.app/" },
+  { name: "Chitra Art Guide", desc: "AI-assisted art exploration", color: "bg-rose-500", icon: "fa-solid fa-palette", href: "https://nirmalya-iitkgp.github.io/Chitra-art-guide/" },
+  { name: "Forest Focus", desc: "Nature-based productivity", color: "bg-emerald-600", icon: "fa-solid fa-tree", href: "https://nirmalya-iitkgp.github.io/Forest-focus-game/" },
   { name: "Rewire", desc: "Self-improvement journey", color: "bg-amber-500", icon: "fa-solid fa-arrow-trend-up", href: "https://improve-your-life.lovable.app/" },
   { name: "Thought Journal", desc: "Download privacy first CBT journal", color: "bg-indigo-500", icon: "fa-solid fa-heart-pulse", href: "https://drive.google.com/file/d/1BJKZuhwSpcUG5SQDKaOmcGpxy0SqL0GV" },
   { name: "Cricket Champ", desc: "AI-based strategy game", color: "bg-blue-600", icon: "fa-solid fa-gamepad", href: "https://np-hand-cricket.lovable.app" },
@@ -51,6 +51,9 @@ const APPS = [
   { name: "Standard Model Physics", desc: "Particle physics interactive model", color: "bg-purple-600", icon: "fa-solid fa-atom", href: "https://nirmalya-iitkgp.github.io/Standard-Model-Physics/" },
   { name: "Ind Pay Visualizer", desc: "Payment systems visualization", color: "bg-emerald-500", icon: "fa-solid fa-chart-pie", href: "https://nirmalya-iitkgp.github.io/ind-pay-visualizer/" },
   { name: "CogniCare", desc: "Cognitive health and care platform", color: "bg-teal-600", icon: "fa-solid fa-brain", href: "https://nirmalya-iitkgp.github.io/CogniCare/" },
+  { name: "Waffle Chart Studio", desc: "Interactive waffle chart creation tool", color: "bg-indigo-500", icon: "fa-solid fa-chart-column", href: "https://nirmalya-iitkgp.github.io/Waffle-Chart-Studio/" },
+  { name: "Exec Bar Charts", desc: "Executive dashboard bar charts", color: "bg-blue-600", icon: "fa-solid fa-chart-bar", href: "https://nirmalya-iitkgp.github.io/Exec-Bar-Charts/" },
+  { name: "Sankey Chart Studio", desc: "Interactive flow and Sankey diagram creator", color: "bg-teal-600", icon: "fa-solid fa-diagram-next", href: "https://nirmalya-iitkgp.github.io/Sankey-Chart-Studio/" },
   { name: "Utkala Odisha", desc: "Cultural showcase of Odisha", color: "bg-amber-500", icon: "fa-solid fa-landmark", href: "https://nirmalya-iitkgp.github.io/Utkala-odisha-website/" },
 ];
 
