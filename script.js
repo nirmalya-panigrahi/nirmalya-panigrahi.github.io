@@ -59,7 +59,7 @@ const APPS = [
   // 6. Productivity, Social & Culture (bg-sky-500)
   { name: "Mind Your Subscription", desc: "SaaS subscription management", color: "bg-sky-500", icon: "fa-solid fa-wand-magic-sparkles", href: "https://mind-your-subscription.vercel.app/" },
   { name: "Forest Focus", desc: "Nature-based productivity", color: "bg-sky-500", icon: "fa-solid fa-tree", href: "https://nirmalya-iitkgp.github.io/Forest-focus-game/" },
-  { name: "Knolly Social Media", desc: "Social media analytics and content platform", color: "bg-sky-500", icon: "fa-solid fa-share-nodes", href: "https://nirmalya-iitkgp.github.io/Knolly-Social-Media/" },
+  { name: "Knolly Social Media", desc: "Social media analytics and content platform", color: "bg-sky-500", icon: "fa-solid fa-share-nodes", href: "https://sciencetwitter.vercel.app/" },
   { name: "Utkala Odisha", desc: "Cultural showcase of Odisha", color: "bg-sky-500", icon: "fa-solid fa-landmark", href: "https://nirmalya-iitkgp.github.io/Utkala-odisha-website/" },
 
   // 7. Interactive Games (bg-rose-500)
