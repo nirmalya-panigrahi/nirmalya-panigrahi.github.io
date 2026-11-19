@@ -27,12 +27,12 @@ const CONTACT_LINKS = [
 */
 
 const APPS = [
-  // 1. Business, Strategy & Simulation (bg-blue-700)
+  // 1. Strategy, Ops & Systems (bg-blue-700)
   { name: "Business Simulation", desc: "Corporate strategy environment", color: "bg-blue-700", icon: "fa-solid fa-chess-knight", href: "https://business-simulation-beta.vercel.app/" },
   { name: "Automotive SCM", desc: "Digital twin for supply chain", color: "bg-blue-700", icon: "fa-solid fa-computer", href: "https://automotive-scm-digital-twin.vercel.app/" },
   { name: "Chaos Model Thinking", desc: "Complex systems simulations", color: "bg-blue-700", icon: "fa-solid fa-diagram-project", href: "https://nirmalya-iitkgp.github.io/Chaos-Model-Thinking/" },
 
-  // 2. Data Visualization & Finance (bg-emerald-600)
+  // 2. Charts & Finance (bg-emerald-600)
   { name: "Exec Bar Charts", desc: "Executive dashboard bar charts", color: "bg-emerald-600", icon: "fa-solid fa-chart-bar", href: "https://nirmalya-iitkgp.github.io/Exec-Bar-Charts/" },
   { name: "Sankey Chart Studio", desc: "Interactive flow and Sankey diagram creator", color: "bg-emerald-600", icon: "fa-solid fa-diagram-next", href: "https://nirmalya-iitkgp.github.io/Sankey-Chart-Studio/" },
   { name: "Waffle Chart Studio", desc: "Interactive waffle chart creation tool", color: "bg-emerald-600", icon: "fa-solid fa-chart-column", href: "https://nirmalya-iitkgp.github.io/Waffle-Chart-Studio/" },
@@ -46,23 +46,27 @@ const APPS = [
   { name: "Ideation Coach", desc: "Structured brainstorming framework", color: "bg-amber-500", icon: "fa-solid fa-lightbulb", href: "https://ideation-coach.vercel.app/" },
   { name: "Innovation Coach", desc: "Corporate venture and design thinking", color: "bg-amber-500", icon: "fa-solid fa-rocket", href: "https://innovation-coach.vercel.app/" },
 
-  // 4. Health & Wellness (bg-red-600)
+  // 4. Health & Wellbeing (bg-red-600)
   { name: "Medical Calc", desc: "Healthcare professional tool", color: "bg-red-600", icon: "fa-solid fa-stethoscope", href: "https://np-medical-calc.vercel.app/" },
   { name: "CogniCare", desc: "Cognitive health and care platform", color: "bg-red-600", icon: "fa-solid fa-brain", href: "https://nirmalya-iitkgp.github.io/CogniCare/" },
   { name: "Thought Journal", desc: "Download privacy first CBT journal", color: "bg-red-600", icon: "fa-solid fa-heart-pulse", href: "https://drive.google.com/file/d/1BJKZuhwSpcUG5SQDKaOmcGpxy0SqL0GV" },
   { name: "Rewire", desc: "Self-improvement journey", color: "bg-red-600", icon: "fa-solid fa-arrow-trend-up", href: "https://improve-your-life.lovable.app/" },
 
-  // 5. Science & Education (bg-purple-600)
+  // 5. Engineering & Physics (bg-purple-600)
+  { name: "Structural Engineering Bench", desc: "Structural engineering analysis workbench", color: "bg-purple-600", icon: "fa-solid fa-building", href: "https://nirmalya-iitkgp.github.io/Structural-Engineering-Bench/" },
+  { name: "Process Engineering Bench", desc: "Process engineering calculation workbench", color: "bg-purple-600", icon: "fa-solid fa-gears", href: "https://nirmalya-iitkgp.github.io/Process-Engineering-Bench/" },
+  { name: "Control Engg Bench", desc: "Control systems engineering workbench", color: "bg-purple-600", icon: "fa-solid fa-sliders", href: "https://nirmalya-iitkgp.github.io/Control-Engg-Bench/" },
+  { name: "Circuit Bench Lab", desc: "Electronic and electrical circuit lab", color: "bg-purple-600", icon: "fa-solid fa-microchip", href: "https://nirmalya-iitkgp.github.io/Circuit-Bench-Lab/" },
   { name: "Standard Model Physics", desc: "Particle physics interactive model", color: "bg-purple-600", icon: "fa-solid fa-atom", href: "https://nirmalya-iitkgp.github.io/Standard-Model-Physics/" },
-  { name: "Chitra Art Guide", desc: "AI-assisted art exploration", color: "bg-purple-600", icon: "fa-solid fa-palette", href: "https://nirmalya-iitkgp.github.io/Chitra-art-guide/" },
 
-  // 6. Productivity, Social & Culture (bg-sky-500)
+  // 6. Productivity, Media & Culture (bg-sky-500)
   { name: "Mind Your Subscription", desc: "SaaS subscription management", color: "bg-sky-500", icon: "fa-solid fa-wand-magic-sparkles", href: "https://mind-your-subscription.vercel.app/" },
   { name: "Forest Focus", desc: "Nature-based productivity", color: "bg-sky-500", icon: "fa-solid fa-tree", href: "https://nirmalya-iitkgp.github.io/Forest-focus-game/" },
-  { name: "Knolly Social Media", desc: "Social media analytics and content platform", color: "bg-sky-500", icon: "fa-solid fa-share-nodes", href: "https://sciencetwitter.vercel.app/" },
+  { name: "Knolly Social Media", desc: "Social media analytics and content platform", color: "bg-sky-500", icon: "fa-solid fa-share-nodes", href: "https://nirmalya-iitkgp.github.io/Knolly-Social-Media/" },
   { name: "Utkala Odisha", desc: "Cultural showcase of Odisha", color: "bg-sky-500", icon: "fa-solid fa-landmark", href: "https://nirmalya-iitkgp.github.io/Utkala-odisha-website/" },
+  { name: "Chitra Art Guide", desc: "AI-assisted art exploration", color: "bg-sky-500", icon: "fa-solid fa-palette", href: "https://nirmalya-iitkgp.github.io/Chitra-art-guide/" },
 
-  // 7. Interactive Games (bg-rose-500)
+  // 7. Games (bg-rose-500)
   { name: "Cricket Champ", desc: "AI-based strategy game", color: "bg-rose-500", icon: "fa-solid fa-gamepad", href: "https://np-hand-cricket.lovable.app" },
   { name: "Tic-Tac-Toe", desc: "Ultimate version", color: "bg-rose-500", icon: "fa-solid fa-code", href: "https://np-ttt-game.vercel.app/" },
   { name: "Stellar Game", desc: "Space-themed battle", color: "bg-rose-500", icon: "fa-solid fa-rocket", href: "https://np-stellar-game.vercel.app/" },
