@@ -69,9 +69,9 @@ const APPS = [
   // 7. Games (bg-rose-500)
   { name: "Cricket Champ", desc: "AI-based strategy game", color: "bg-rose-500", icon: "fa-solid fa-gamepad", href: "https://np-hand-cricket.lovable.app" },
   { name: "Tic-Tac-Toe", desc: "Ultimate version", color: "bg-rose-500", icon: "fa-solid fa-code", href: "https://np-ttt-game.vercel.app/" },
-  { name: "Stellar Game", desc: "Space-themed battle", color: "bg-rose-500", icon: "fa-solid fa-rocket", href: "https://np-stellar-game.vercel.app/" },
-  { name: "Singularity", desc: "Strategic navigation", color: "bg-rose-500", icon: "fa-solid fa-earth-americas", href: "https://np-singularity-game.vercel.app/" },
-  { name: "Unquote", desc: "Minimalist word game", color: "bg-rose-500", icon: "fa-solid fa-font", href: "https://unquote-word-game.vercel.app/" },
+  { name: "Stellar Game", desc: "Space-themed battle", color: "bg-rose-500", icon: "fa-solid fa-rocket", href: "https://nirmalya-panigrahi.github.io/Stellar-game/" },
+  { name: "Singularity", desc: "Strategic navigation", color: "bg-rose-500", icon: "fa-solid fa-earth-americas", href: "https://nirmalya-panigrahi.github.io/Singularity-game/" },
+  { name: "Unquote", desc: "Minimalist word game", color: "bg-rose-500", icon: "fa-solid fa-font", href: "https://nirmalya-panigrahi.github.io/Unquote-word-game/" },
 ];
 
 const PARTNER_LOGOS = [
