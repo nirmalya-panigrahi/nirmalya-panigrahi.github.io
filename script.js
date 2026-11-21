@@ -30,6 +30,7 @@ const APPS = [
   // 1. Strategy, Ops & Systems (bg-blue-700)
   { name: "Business Simulation", desc: "Corporate strategy environment", color: "bg-blue-700", icon: "fa-solid fa-chess-knight", href: "https://business-simulation-beta.vercel.app/" },
   { name: "Automotive SCM", desc: "Digital twin for supply chain", color: "bg-blue-700", icon: "fa-solid fa-computer", href: "https://automotive-scm-digital-twin.vercel.app/" },
+  { name: "Business Frameworks", desc: "Strategic consulting and problem-solving frameworks", color: "bg-blue-700", icon: "fa-solid fa-sitemap", href: "https://business-frameworks.vercel.app/" },
   { name: "Chaos Model Thinking", desc: "Complex systems simulations", color: "bg-blue-700", icon: "fa-solid fa-diagram-project", href: "https://nirmalya-panigrahi.github.io/Chaos-Model-Thinking/" },
 
   // 2. Charts & Finance (bg-emerald-600)
@@ -63,6 +64,7 @@ const APPS = [
   { name: "Mind Your Subscription", desc: "SaaS subscription management", color: "bg-sky-500", icon: "fa-solid fa-wand-magic-sparkles", href: "https://mind-your-subscription.vercel.app/" },
   { name: "Forest Focus", desc: "Nature-based productivity", color: "bg-sky-500", icon: "fa-solid fa-tree", href: "https://nirmalya-panigrahi.github.io/Forest-focus-game/" },
   { name: "Knolly Social Media", desc: "Social media analytics and content platform", color: "bg-sky-500", icon: "fa-solid fa-share-nodes", href: "https://nirmalya-panigrahi.github.io/Knolly-Social-Media/" },
+  { name: "PNG to PPT", desc: "Convert PNG images into PowerPoint decks", color: "bg-sky-500", icon: "fa-solid fa-file-powerpoint", href: "https://png-to-ppt.vercel.app/" },
   { name: "Utkala Odisha", desc: "Cultural showcase of Odisha", color: "bg-sky-500", icon: "fa-solid fa-landmark", href: "https://nirmalya-panigrahi.github.io/Utkala-odisha-website/" },
   { name: "Chitra Art Guide", desc: "AI-assisted art exploration", color: "bg-sky-500", icon: "fa-solid fa-palette", href: "https://nirmalya-panigrahi.github.io/Chitra-art-guide/" },
 
