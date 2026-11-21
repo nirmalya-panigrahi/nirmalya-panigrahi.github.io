@@ -83,10 +83,10 @@ const PARTNER_LOGOS = [
 ];
 
 const THEMES = [
-    { id: 'default', name: 'CLASSIC', bg: "#050505", primary: "#ff6b6b", gradient: "linear-gradient(to right, #383b3f, #ffffff)" },
-    { id: 'serene', name: 'SERENE', bg: "#0f172a", primary: "#fbbf24", gradient: "linear-gradient(to right, #1e40af, #38bdf8)" },
-    { id: 'aurora', name: 'AURORA', bg: "#022c22", primary: "#f472b6", gradient: "linear-gradient(to right, #064e3b, #10b981)" },
-    { id: 'cosmos', name: 'COSMOS', bg: "#0f0720", primary: "#fb923c", gradient: "linear-gradient(to right, #581c87, #c084fc)" }
+    { id: 'default', name: 'CLASSIC', bg: "#050505", primary: "#ffffff", gradient: "linear-gradient(to right, #9ca3af, #ffffff)" },
+    { id: 'serene', name: 'SERENE', bg: "#0f172a", primary: "#38bdf8", gradient: "linear-gradient(to right, #1e40af, #38bdf8)" },
+    { id: 'aurora', name: 'AURORA', bg: "#022c22", primary: "#10b981", gradient: "linear-gradient(to right, #064e3b, #10b981)" },
+    { id: 'cosmos', name: 'COSMOS', bg: "#0f0720", primary: "#c084fc", gradient: "linear-gradient(to right, #581c87, #c084fc)" }
 ];
 
 let currentThemeIndex = 0;
