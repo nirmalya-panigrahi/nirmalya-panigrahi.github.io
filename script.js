@@ -29,7 +29,7 @@ const CONTACT_LINKS = [
 const APPS = [
   // 1. Strategy, Ops & Innovation (bg-blue-700)
   { name: "Business Simulation", desc: "Corporate strategy environment", color: "bg-blue-700", icon: "fa-solid fa-chess-knight", href: "https://business-simulation-beta.vercel.app/" },
-  { name: "Automotive SCM", desc: "Digital twin for supply chain", color: "bg-blue-700", icon: "fa-solid fa-computer", href: "https://automotive-scm-digital-twin.vercel.app/" },
+  { name: "Automotive SCM", desc: "Digital twin for supply chain", color: "bg-blue-700", icon: "fa-solid fa-computer", href: "https://nirmalya-panigrahi.github.io/automotive-scm-digital-twin/" },
   { name: "Business Frameworks", desc: "Strategic consulting and problem-solving frameworks", color: "bg-blue-700", icon: "fa-solid fa-sitemap", href: "https://business-frameworks.vercel.app/" },
   { name: "Ideation Coach", desc: "Structured brainstorming framework", color: "bg-blue-700", icon: "fa-solid fa-lightbulb", href: "https://ideation-coach.vercel.app/" },
   { name: "Innovation Coach", desc: "Corporate venture and design thinking", color: "bg-blue-700", icon: "fa-solid fa-rocket", href: "https://innovation-coach.vercel.app/" },
@@ -45,26 +45,31 @@ const APPS = [
   { name: "Fin Calc", desc: "Complex operation finance", color: "bg-green-600", icon: "fa-solid fa-briefcase", href: "https://np-fin.lovable.app" },
   { name: "Ind Pay Visualizer", desc: "Payment systems visualization", color: "bg-green-600", icon: "fa-solid fa-chart-pie", href: "https://nirmalya-panigrahi.github.io/ind-pay-visualizer/" },
 
-  // 4. Charts & Visualisation (bg-indigo-500)
+  /* 4. Charts & Visualisation (bg-indigo-500)
   { name: "Exec Bar Charts", desc: "Executive dashboard bar charts", color: "bg-indigo-500", icon: "fa-solid fa-chart-bar", href: "https://nirmalya-panigrahi.github.io/Exec-Bar-Charts/" },
   { name: "Sankey Chart Studio", desc: "Interactive flow and Sankey diagram creator", color: "bg-indigo-500", icon: "fa-solid fa-diagram-next", href: "https://nirmalya-panigrahi.github.io/Sankey-Chart-Studio/" },
   { name: "Waffle Chart Studio", desc: "Interactive waffle chart creation tool", color: "bg-indigo-500", icon: "fa-solid fa-chart-column", href: "https://nirmalya-panigrahi.github.io/Waffle-Chart-Studio/" },
+  */
 
   // 5. Health & Wellbeing (bg-teal-600)
   { name: "Medical Calc", desc: "Healthcare professional tool", color: "bg-teal-600", icon: "fa-solid fa-stethoscope", href: "https://np-medical-calc.vercel.app/" },
   { name: "CogniCare", desc: "Cognitive health and care platform", color: "bg-teal-600", icon: "fa-solid fa-brain", href: "https://nirmalya-panigrahi.github.io/CogniCare/" },
-  { name: "Thought Journal", desc: "Download privacy first CBT journal", color: "bg-teal-600", icon: "fa-solid fa-heart-pulse", href: "https://drive.google.com/file/d/1BJKZuhwSpcUG5SQDKaOmcGpxy0SqL0GV" },
+  { name: "Thought Journal", desc: "Download privacy first CBT journal", color: "bg-teal-600", icon: "fa-solid fa-heart-pulse", href: "https://github.com/nirmalya-panigrahi/CBT-App/releases/download/v1.0.0/MindSyncCBT-windows.zip" },
   { name: "Rewire", desc: "Self-improvement journey", color: "bg-teal-600", icon: "fa-solid fa-arrow-trend-up", href: "https://improve-your-life.lovable.app/" },
 
   // 6. Science & Engineering (bg-purple-600)
+  /*
   { name: "Structural Engineering Bench", desc: "Structural engineering analysis workbench", color: "bg-purple-600", icon: "fa-solid fa-building", href: "https://nirmalya-panigrahi.github.io/Structural-Engineering-Bench/" },
   { name: "Process Engineering Bench", desc: "Process engineering calculation workbench", color: "bg-purple-600", icon: "fa-solid fa-gears", href: "https://nirmalya-panigrahi.github.io/Process-Engineering-Bench/" },
   { name: "Control Engg Bench", desc: "Control systems engineering workbench", color: "bg-purple-600", icon: "fa-solid fa-sliders", href: "https://nirmalya-panigrahi.github.io/Control-Engg-Bench/" },
   { name: "Circuit Bench Lab", desc: "Electronic and electrical circuit lab", color: "bg-purple-600", icon: "fa-solid fa-microchip", href: "https://nirmalya-panigrahi.github.io/Circuit-Bench-Lab/" },
+  */
+  { name: "Engineering Bench", desc: "Multi-discipline engineering workbench", color: "bg-purple-600", icon: "fa-solid fa-wrench", href: "https://nirmalya-panigrahi.github.io/engineering-bench/" },
   { name: "Standard Model Physics", desc: "Particle physics interactive model", color: "bg-purple-600", icon: "fa-solid fa-atom", href: "https://nirmalya-panigrahi.github.io/Standard-Model-Physics/" },
   { name: "Chaos Model Thinking", desc: "Complex systems simulations", color: "bg-purple-600", icon: "fa-solid fa-diagram-project", href: "https://nirmalya-panigrahi.github.io/Chaos-Model-Thinking/" },
 
   // 7. Productivity & Utilities (bg-slate-800)
+  { name: "Executive Charts", desc: "AI-powered executive chart builder", color: "bg-emerald-600", icon: "fa-solid fa-chart-line", href: "https://nirmalya-panigrahi.github.io/Executive-Charts/" },
   { name: "PNG to PPT", desc: "Convert PNG images into PowerPoint decks", color: "bg-slate-800", icon: "fa-solid fa-file-powerpoint", href: "https://png-to-ppt.vercel.app/" },
   { name: "Mind Your Subscription", desc: "SaaS subscription management", color: "bg-slate-800", icon: "fa-solid fa-wand-magic-sparkles", href: "https://mind-your-subscription.vercel.app/" },
   { name: "Forest Focus", desc: "Nature-based productivity", color: "bg-slate-800", icon: "fa-solid fa-tree", href: "https://nirmalya-panigrahi.github.io/Forest-focus-game/" },
