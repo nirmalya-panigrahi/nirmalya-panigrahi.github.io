@@ -30,6 +30,7 @@ const APPS = [
   // 1. Strategy, Ops & Innovation (bg-blue-700)
   { name: "Business Simulation", desc: "Corporate strategy environment", color: "bg-blue-700", icon: "fa-solid fa-chess-knight", href: "https://business-simulation-beta.vercel.app/" },
   { name: "Automotive SCM", desc: "Digital twin for supply chain", color: "bg-blue-700", icon: "fa-solid fa-computer", href: "https://nirmalya-panigrahi.github.io/automotive-scm-digital-twin/" },
+  { name: "Laptop SCM Digital Twin", desc: "Digital twin for laptop supply chain", color: "bg-blue-700", icon: "fa-solid fa-laptop", href: "https://nirmalya-panigrahi.github.io/laptop-scm-digital-twin/" },
   { name: "Business Frameworks", desc: "Strategic consulting and problem-solving frameworks", color: "bg-blue-700", icon: "fa-solid fa-sitemap", href: "https://business-frameworks.vercel.app/" },
   { name: "Ideation Coach", desc: "Structured brainstorming framework", color: "bg-blue-700", icon: "fa-solid fa-lightbulb", href: "https://ideation-coach.vercel.app/" },
   { name: "Innovation Coach", desc: "Corporate venture and design thinking", color: "bg-blue-700", icon: "fa-solid fa-rocket", href: "https://innovation-coach.vercel.app/" },
@@ -44,6 +45,7 @@ const APPS = [
   { name: "Financial Decision Modelling", desc: "Quantitative financial decision simulator", color: "bg-green-600", icon: "fa-solid fa-scale-balanced", href: "https://nirmalya-panigrahi.github.io/Financial-Decision-Modelling/" },
   { name: "Fin Calc", desc: "Complex operation finance", color: "bg-green-600", icon: "fa-solid fa-briefcase", href: "https://np-fin.lovable.app" },
   { name: "Ind Pay Visualizer", desc: "Payment systems visualization", color: "bg-green-600", icon: "fa-solid fa-chart-pie", href: "https://nirmalya-panigrahi.github.io/ind-pay-visualizer/" },
+  { name: "Review My Finance", desc: "Personal finance review and checkup tool", color: "bg-emerald-600", icon: "fa-solid fa-wallet", href: "https://nirmalya-panigrahi.github.io/Review-my-finance/" },
 
   /* 4. Charts & Visualisation (bg-indigo-500)
   { name: "Exec Bar Charts", desc: "Executive dashboard bar charts", color: "bg-indigo-500", icon: "fa-solid fa-chart-bar", href: "https://nirmalya-panigrahi.github.io/Exec-Bar-Charts/" },
