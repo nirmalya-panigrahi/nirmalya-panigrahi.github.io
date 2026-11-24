@@ -56,6 +56,7 @@ const APPS = [
   { name: "CogniCare", desc: "Cognitive health and care platform", color: "bg-teal-600", icon: "fa-solid fa-brain", href: "https://nirmalya-panigrahi.github.io/CogniCare/" },
   { name: "Thought Journal", desc: "Download privacy first CBT journal", color: "bg-teal-600", icon: "fa-solid fa-heart-pulse", href: "https://github.com/nirmalya-panigrahi/CBT-App/releases/download/v1.0.0/MindSyncCBT-windows.zip" },
   { name: "Rewire", desc: "Self-improvement journey", color: "bg-teal-600", icon: "fa-solid fa-arrow-trend-up", href: "https://improve-your-life.lovable.app/" },
+  { name: "Medical Carepath", desc: "Clinical care pathway guide", color: "bg-red-600", icon: "fa-solid fa-notes-medical", href: "https://nirmalya-panigrahi.github.io/medical-carepath/" },
 
   // 6. Science & Engineering (bg-purple-600)
   /*
