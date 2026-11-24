@@ -88,6 +88,7 @@ const APPS = [
   { name: "Stellar Game", desc: "Space-themed battle", color: "bg-rose-500", icon: "fa-solid fa-rocket", href: "https://nirmalya-panigrahi.github.io/Stellar-game/" },
   { name: "Singularity", desc: "Strategic navigation", color: "bg-rose-500", icon: "fa-solid fa-earth-americas", href: "https://nirmalya-panigrahi.github.io/Singularity-game/" },
   { name: "Unquote", desc: "Minimalist word game", color: "bg-rose-500", icon: "fa-solid fa-font", href: "https://nirmalya-panigrahi.github.io/Unquote-word-game/" },
+  { name: "Pantheon Clash", desc: "Mythological battle and strategy game", color: "bg-rose-500", icon: "fa-solid fa-shield-halved", href: "https://pantheon-clash-game.vercel.app/" },
 ];
 
 const PARTNER_LOGOS = [
