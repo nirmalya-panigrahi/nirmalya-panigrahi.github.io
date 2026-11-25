@@ -32,12 +32,11 @@ const APPS = [
   { name: "Automotive SCM", desc: "Digital twin for supply chain", color: "bg-blue-700", icon: "fa-solid fa-computer", href: "https://nirmalya-panigrahi.github.io/automotive-scm-digital-twin/" },
   { name: "Laptop SCM Digital Twin", desc: "Digital twin for laptop supply chain", color: "bg-blue-700", icon: "fa-solid fa-laptop", href: "https://nirmalya-panigrahi.github.io/laptop-scm-digital-twin/" },
   { name: "Business Frameworks", desc: "Strategic consulting and problem-solving frameworks", color: "bg-blue-700", icon: "fa-solid fa-sitemap", href: "https://business-frameworks.vercel.app/" },
-  { name: "Ideation Coach", desc: "Structured brainstorming framework", color: "bg-blue-700", icon: "fa-solid fa-lightbulb", href: "https://ideation-coach.vercel.app/" },
-  { name: "Innovation Coach", desc: "Corporate venture and design thinking", color: "bg-blue-700", icon: "fa-solid fa-rocket", href: "https://innovation-coach.vercel.app/" },
-
-  // 2. People & Assessments (bg-amber-500)
+  { name: "Innovation Coach", desc: "Corporate venture and design thinking", color: "bg-amber-500", icon: "fa-solid fa-rocket", href: "https://nirmalya-panigrahi.github.io/innovation-coach/" },
   { name: "Business Assessments", desc: "Business readiness and diagnostic assessments", color: "bg-amber-500", icon: "fa-solid fa-clipboard-check", href: "https://nirmalya-panigrahi.github.io/business-assessments/" },
   /*
+  { name: "Ideation Coach", desc: "Structured brainstorming framework", color: "bg-blue-700", icon: "fa-solid fa-lightbulb", href: "https://ideation-coach.vercel.app/" },
+  { name: "Innovation Coach", desc: "Corporate venture and design thinking", color: "bg-blue-700", icon: "fa-solid fa-rocket", href: "https://innovation-coach.vercel.app/" },
   { name: "Behaviour Assessments", desc: "Psychometric framework analytics", color: "bg-amber-500", icon: "fa-solid fa-brain", href: "https://behaviour-assessments.vercel.app/" },
   { name: "Interview Assessments", desc: "Structured talent evaluation platforms", color: "bg-amber-500", icon: "fa-solid fa-user-check", href: "https://interview-assessments.vercel.app/" },
   { name: "Personality Assessments", desc: "Advanced behavioral profiling analytics", color: "bg-amber-500", icon: "fa-solid fa-id-card-clip", href: "https://personality-assessments-seven.vercel.app/" },
