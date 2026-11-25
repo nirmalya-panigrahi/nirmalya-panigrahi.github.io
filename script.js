@@ -82,6 +82,8 @@ const APPS = [
 
   // 8. Culture & Art (bg-orange-600)
   { name: "Utkala Odisha", desc: "Cultural showcase of Odisha", color: "bg-orange-600", icon: "fa-solid fa-landmark", href: "https://nirmalya-panigrahi.github.io/Utkala-odisha-website/" },
+  { name: "Ragamala", desc: "Indian classical raga and art explorer", color: "bg-sky-500", icon: "fa-solid fa-music", href: "https://nirmalya-panigrahi.github.io/ragamala/" },
+  { name: "Celestial Rhythm", desc: "Interactive rhythm and astronomical soundscape", color: "bg-sky-500", icon: "fa-solid fa-star", href: "https://nirmalya-panigrahi.github.io/Celestial-Rhythm/" },
   { name: "Chitra Art Guide", desc: "AI-assisted art exploration", color: "bg-orange-600", icon: "fa-solid fa-palette", href: "https://nirmalya-panigrahi.github.io/Chitra-art-guide/" },
 
   // 9. Games (bg-rose-500)
