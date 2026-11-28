@@ -60,6 +60,7 @@ const APPS = [
   { name: "CogniCare", desc: "Cognitive health and care platform", color: "bg-teal-600", icon: "fa-solid fa-brain", href: "https://nirmalya-panigrahi.github.io/CogniCare/" },
   { name: "Thought Journal", desc: "Download privacy first CBT journal", color: "bg-teal-600", icon: "fa-solid fa-heart-pulse", href: "https://github.com/nirmalya-panigrahi/CBT-App/releases/download/v1.0.0/MindSyncCBT-windows.zip" },
   { name: "Rewire", desc: "Self-improvement journey", color: "bg-teal-600", icon: "fa-solid fa-arrow-trend-up", href: "https://improve-your-life.lovable.app/" },
+  { name: "Easy Prescribe", desc: "Digital prescription and medication workflow tool", color: "bg-red-600", icon: "fa-solid fa-prescription-bottle-medical", href: "https://nirmalya-panigrahi.github.io/easy-prescribe/" },
   { name: "Medical Carepath", desc: "Clinical care pathway guide", color: "bg-red-600", icon: "fa-solid fa-notes-medical", href: "https://nirmalya-panigrahi.github.io/medical-carepath/" },
 
   // 6. Science & Engineering (bg-purple-600)
@@ -84,6 +85,7 @@ const APPS = [
   { name: "Utkala Odisha", desc: "Cultural showcase of Odisha", color: "bg-orange-600", icon: "fa-solid fa-landmark", href: "https://nirmalya-panigrahi.github.io/Utkala-odisha-website/" },
   { name: "Ragamala", desc: "Indian classical raga and art explorer", color: "bg-sky-500", icon: "fa-solid fa-music", href: "https://nirmalya-panigrahi.github.io/ragamala/" },
   { name: "Celestial Rhythm", desc: "Interactive rhythm and astronomical soundscape", color: "bg-sky-500", icon: "fa-solid fa-star", href: "https://nirmalya-panigrahi.github.io/Celestial-Rhythm/" },
+  { name: "Vedic Guide", desc: "Vedic concepts and cultural reference guide", color: "bg-sky-500", icon: "fa-solid fa-book-open", href: "https://nirmalya-panigrahi.github.io/vedic-guide/" },
   { name: "Chitra Art Guide", desc: "AI-assisted art exploration", color: "bg-orange-600", icon: "fa-solid fa-palette", href: "https://nirmalya-panigrahi.github.io/Chitra-art-guide/" },
 
   // 9. Games (bg-rose-500)
